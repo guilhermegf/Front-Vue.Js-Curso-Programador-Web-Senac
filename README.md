@@ -12,7 +12,7 @@ Tecnologias utilizadas:
 
 Vue.js: Framework JavaScript progressivo para construção de interfaces de usuário.
 API: A aplicação consome uma API para obter e atualizar os dados de alunos, cursos e matrículas. Código fonte da API em: https://github.com/guilhermegf/API-Node.js-com-MySQL---Sistema-Escolar---Curso-Programador-Web-SENAC
-HTML5, CSS3 e Bootstrap: Linguagens utilizadas para estruturar e estilizar a interface do usuário.
+HTML5, CSS3 e BootStrap: Linguagens utilizadas para estruturar e estilizar a interface do usuário.
 
 Instruções de instalação:
 
@@ -20,7 +20,7 @@ Clone o repositório para o seu ambiente local.
 Certifique-se de ter o Node.js instalado em sua máquina.
 Execute o comando "npm install" para instalar as dependências do projeto.
 Configure a URL da API no arquivo de configuração correspondente.
-Execute o comando "npm run serve" para iniciar a aplicação em modo de desenvolvimento.
+Execute o comando "npm run dev" para iniciar a aplicação em modo de desenvolvimento.
 Acesse a aplicação em seu navegador no endereço indicado.
 Posteriomente é possível gerar um versão de distribuição com "npm run build".
 
