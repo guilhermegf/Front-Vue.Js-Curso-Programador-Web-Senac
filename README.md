@@ -11,7 +11,7 @@ Autenticação: A aplicação conta com uma página de login que valida as crede
 Tecnologias utilizadas:
 
 Vue.js: Framework JavaScript progressivo para construção de interfaces de usuário.
-API: A aplicação consome uma API para obter e atualizar os dados de alunos, cursos e matrículas.
+API: A aplicação consome uma API para obter e atualizar os dados de alunos, cursos e matrículas. Código fonte da API em: https://github.com/guilhermegf/apiwebguilherme
 HTML5, CSS3 e Bootstrap: Linguagens utilizadas para estruturar e estilizar a interface do usuário.
 
 Instruções de instalação:
