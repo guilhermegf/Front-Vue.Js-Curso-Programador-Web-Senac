@@ -25,3 +25,6 @@ Acesse a aplicação em seu navegador no endereço indicado.
 Posteriomente é possível gerar um versão de distribuição com "npm run build".
 
 Esse projeto visa fornecer uma solução para o controle escolar, permitindo o gerenciamento eficiente de alunos, cursos e matrículas. Fique à vontade para explorar, contribuir e personalizar de acordo com suas necessidades. Sinta-se à vontade para entrar em contato com o desenvolvedor para obter mais informações ou esclarecer dúvidas.
+
+Licença
+Este projeto está licenciado sob a licença Creative Commons Attribution 4.0 International.
